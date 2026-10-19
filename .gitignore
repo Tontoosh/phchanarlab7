@@ -5,3 +5,4 @@ node_modules/
 output/playwright/
 *.docx
 app.js
+*.kate-swp
